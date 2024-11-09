@@ -1,12 +1,16 @@
-# Project Akhir DASPRO Kelompok 12 2023
+# Project Akhir DASPRO Kelompok 11 2024
 # Anggota Kelompok
-1. Muhammad Rizky Setiawan (2309116039)
-2. Reyfaldho Alfarazel (2309116007)
-3. Muhammad Nabil Ma’ruf (2309116035)
+1. Fathinatus Zaina (NIM Kalian)
+2. Riza (NIM kalian)
+3. Mochammad Rezky Ramadhan (2409116029)
 
-# Menu Login/Sign Up Akun
+# Menu utama
 
 ![image](https://github.com/PA-DASPRO-Kelompok-12/PA-DASPRO/assets/115384028/cbd2e685-038a-424f-97da-b5e7018fbe62)
+
+# Menu utama(register)
+
+# Menu utama(login)
 
 # Jika Masuk dengan Username "admin" dan Password "admin" (Mode Admin)
 
