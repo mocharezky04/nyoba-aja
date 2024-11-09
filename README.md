@@ -6,19 +6,23 @@
 
 # Menu utama
 
-![image](https://github.com/PA-DASPRO-Kelompok-12/PA-DASPRO/assets/115384028/cbd2e685-038a-424f-97da-b5e7018fbe62)
+
 
 # Menu utama(register)
 
+
+
 # Menu utama(login)
 
-# Jika Masuk dengan Username "admin" dan Password "admin" (Mode Admin)
 
-![image](https://github.com/PA-DASPRO-Kelompok-12/PA-DASPRO/assets/115384028/3e89ef10-25dd-45ae-b396-14ad6d73b964)
 
-# Jika Masuk dengan Username Pembeli
+# Jika Masuk dengan Username "admin" dan Password "admin1234" (Mode Admin)
 
-![image](https://github.com/PA-DASPRO-Kelompok-12/PA-DASPRO/assets/115384028/38e50d20-1f6f-4d05-acae-af37aeeddbd7)
+
+
+# Jika Masuk dengan Username dan password Pembeli 
+
+
 
 # Sign Up Akun(Daftar Akun)
 
