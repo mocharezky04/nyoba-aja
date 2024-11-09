@@ -1,0 +1,219 @@
+{
+    "users": [
+        {
+            "nama": "Admin",
+            "username": "admin",
+            "password": "admin1234",
+            "saldo": 0,
+            "uang_idr": 0
+        },
+        {
+            "nama": "Fathinatus Zaina",
+            "username": "zaina",
+            "password": "123456",
+            "saldo": 3500000.0,
+            "uang_idr": 100000.0
+        },
+        {
+            "nama": "Ahmad Sepriza",
+            "username": "riza",
+            "password": "789101",
+            "saldo": 1500000.0,
+            "uang_idr": 50000.0
+        },
+        {
+            "nama": "Mochammad Rezky Ramadhan",
+            "username": "rezky",
+            "password": "qwerty",
+            "saldo": 1200000.0,
+            "uang_idr": 3000000.0
+        },
+        {
+            "nama": "Narendra",
+            "username": "rendra",
+            "password": "123456",
+            "saldo": 830000.0,
+            "uang_idr": 250.0
+        },
+        {
+            "nama": "Husaini Iyastama",
+            "username": "iyas",
+            "password": "123456",
+            "saldo": 10000.0,
+            "uang_idr": 240000.0
+        },
+        {
+            "nama": "Mocha Mocha",
+            "username": "mocha",
+            "password": "029",
+            "saldo": 0,
+            "uang_idr": 1000000.0
+        },
+        {
+            "nama": "Terbaru",
+            "username": "baru",
+            "password": "12345678",
+            "saldo": 1234.0,
+            "uang_idr": 122222.0
+        },
+        {
+            "nama": "Naren naren",
+            "username": "narennaren",
+            "password": "1234",
+            "saldo": 0,
+            "uang_idr": 2500.0
+        },
+        {
+            "nama": "narendra p",
+            "username": "narendra",
+            "password": "1234",
+            "saldo": 0,
+            "uang_idr": 250.0
+        },
+        {
+            "nama": "ace anthem",
+            "username": "aceng",
+            "password": "123456",
+            "saldo": 0,
+            "uang_idr": 1000000.0
+        },
+        {
+            "nama": "wielino ino",
+            "username": "ino",
+            "password": "12345",
+            "saldo": 0,
+            "uang_idr": 1000000.0
+        },
+        {
+            "nama": "guntur pratama",
+            "username": "guntur123",
+            "password": "\\",
+            "saldo": 0,
+            "uang_idr": 0
+        },
+        {
+            "nama": "Sayid Atha",
+            "username": "sayid",
+            "password": "12345",
+            "saldo": 400000.0,
+            "uang_idr": 500000.0
+        }
+    ],
+    "invoices": [
+        {
+            "nama": "Fathinatus Zaina",
+            "total_harga": 100000,
+            "meja_dipesan": [
+                "1"
+            ]
+        },
+        {
+            "nama": "Mochammad Rezky Ramadhan",
+            "total_harga": 170000,
+            "meja_dipesan": [
+                "2"
+            ]
+        },
+        {
+            "nama": "Mochammad Rezky Ramadhan",
+            "total_harga": 370000,
+            "meja_dipesan": [
+                "2",
+                "3"
+            ]
+        },
+        {
+            "nama": "Mochammad Rezky Ramadhan",
+            "total_harga": 170000,
+            "meja_dipesan": [
+                "2"
+            ]
+        },
+        {
+            "nama": "Fathinatus Zaina",
+            "total_harga": 100000,
+            "meja_dipesan": [
+                "1"
+            ]
+        },
+        {
+            "nama": "Sayid Athaya",
+            "total_harga": 100000,
+            "meja_dipesan": [
+                "1"
+            ]
+        }
+    ],
+    "reservasi": [
+        {
+            "meja": "1",
+            "deskripsi": "Meja dengan 2 kursi",
+            "harga": 100000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "2",
+            "deskripsi": "Meja dengan 2 kursi",
+            "harga": 170000,
+            "status": "Sudah diambil",
+            "pemesan": "Mochammad Rezky Ramadhan"
+        },
+        {
+            "meja": "3",
+            "deskripsi": "Meja dengan 3 kursi",
+            "harga": 200000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "4",
+            "deskripsi": "Meja dengan 4 kursi",
+            "harga": 240000,
+            "status": "Sudah diambil",
+            "pemesan": "123"
+        },
+        {
+            "meja": "5",
+            "deskripsi": "Meja dengan 4 kursi",
+            "harga": 280000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "6",
+            "deskripsi": "Meja dengan 4 kursi",
+            "harga": 320000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "7",
+            "deskripsi": "Meja dengan 6 kursi",
+            "harga": 370000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "8",
+            "deskripsi": "Meja dengan 6 kursi",
+            "harga": 420000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "9",
+            "deskripsi": "Meja dengan 6 kursi",
+            "harga": 470000,
+            "status": "Ada",
+            "pemesan": "-"
+        },
+        {
+            "meja": "10",
+            "deskripsi": "Meja dengan 10 kursi",
+            "harga": 600000,
+            "status": "Ada",
+            "pemesan": "-"
+        }
+    ]
+}

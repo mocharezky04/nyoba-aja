@@ -1,0 +1,6 @@
+pembaharuan:
+1. untuk regis user lewat admin sudah diperbaharui
+2. Kalau menekan ctrl+c jangan keluar program tetapi mengulang ke menu
+3. mengisi nama panjang cuma bisa huruf saja
+4. mengisi deskripsi meja hanya bisa nomor dan huruf saja (tidak bisa pada saat menekan huruf special atau intinya tidak bisa lanjut jika ada karakter selain huruf dan angka)
+5. menambah import re supaya supaya bisa menggunakan re.search jadi jika ada huruf2 special atau tidak di inginkan maka tidak akan dilanjut contoh karena re.search validasi huruf atau kata2 yang kita inginkan dan jika kita menulis "and not" didepan re.search maka karakter atau kata2 yang kita tulis akan tidak dilanjut jika kita menginput kata2 yyng tidak di inginkan/false
